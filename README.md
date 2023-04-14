@@ -1,7 +1,10 @@
 # IMask
 IMask é uma biblioteca javascript feita para facilitar a validação de formulários no front end de uma aplicação javascript. Este projeto tem como foco mostrar essa facilidade e também implementar conceitos de animação css em 3d
 
+# Site:  https://pedrocauan.github.io/IMask/
+
 ## Link da lib: https://imask.js.org/ 
+
 
 
 
